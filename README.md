@@ -86,3 +86,5 @@ python main.py Humanoid-v4 SAC --test models/SAC_25000.zip
 
 📌 RESULTS
 Using SAC, the robot learned to perform stable and effective locomotion in the Humanoid-v4 environment. Compared to TD3 and A2C, SAC provided faster convergence and more consistent performance during evaluation.
+
+Thanks to Johnny Code for the clear and practical guidance!
